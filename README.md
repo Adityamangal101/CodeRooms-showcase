@@ -1,8 +1,8 @@
 # 🚀 CodeRooms
 
-### Real-Time Collaborative Code Editor & File Sharing Platform
+### Online Collaborative Code Editor, Code Sharing Tool & File Sharing Platform
 
-CodeRooms is a browser-based collaborative workspace where developers can code together in real-time, share files instantly, and conduct technical interviews without requiring any signup or installation.
+CodeRooms is a browser-based real-time collaborative code editor that allows developers to share code online, collaborate during technical interviews, conduct pair programming sessions, and exchange files instantly — all without requiring signup, installation, or account creation.
 
 🌐 **Live Application:** https://coderooms.online
 
@@ -37,6 +37,25 @@ CodeRooms combines:
 ✅ Technical interview friendly
 
 ✅ Modern and intuitive UI
+
+---
+
+## 🌍 Built For Modern Developer Collaboration
+
+### CodeRooms is designed for:
+
+- Online code sharing
+- Real-time code collaboration
+- Technical coding interviews
+- Pair programming sessions
+- Remote software development
+- Collaborative coding practice
+- Team code reviews
+- Developer file sharing
+- Multi-user code editing
+- Browser-based coding sessions
+
+Share one link and start collaborating instantly.
 
 ---
 
