@@ -11,7 +11,7 @@ CodeRooms is a browser-based collaborative workspace where developers can code t
 ## 🎬 Live Demo
 
 <p align="center">
-  <img src="assets/coderooms-demo.mp4" alt="CodeRooms Demo" width="100%">
+  <img src="assets/coderooms-demo.gif" alt="CodeRooms Demo" width="100%">
 </p>
 
 ---
